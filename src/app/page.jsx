@@ -8,5 +8,3 @@ export default function Home() {
     </div>
   )
 }
-
-// Compare this snippet from src/app/portfolio/page.jsx:
